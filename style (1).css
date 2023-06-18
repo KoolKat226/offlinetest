@@ -1,0 +1,13 @@
+#offlineMessage {
+  text-align: center;
+  margin-top: 200px;
+}
+
+#offlineMessage h1 {
+  font-size: 24px;
+}
+
+#offlineMessage p {
+  font-size: 16px;
+  color: #888;
+}
